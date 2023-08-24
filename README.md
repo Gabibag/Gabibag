@@ -1,1 +1,1 @@
-Some random sophomore learning computer sceince. Badly. 
+Some random junior learning computer sceince. Badly. 
