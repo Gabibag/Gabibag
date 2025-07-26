@@ -1,1 +1,1 @@
-Some random junior learning computer sceince. Badly. 
+Computer science major
